@@ -11777,7 +11777,7 @@ fieldset:disabled .btn {
 
 /* css style */
 :root {
-  --primary-color: #f50537;
+  --primary-color: #5f9337;
   --primary-dark: #00c16e;
   --font-color: #707070;
   --bg-color: #fff;
@@ -11799,7 +11799,7 @@ fieldset:disabled .btn {
 }
 
 [data-theme="dark"] {
-  --primary-color: #ff4c4c;
+  --primary-color: #007eae;
   --primary-dark: #00c16e;
   --font-color: #b7b7b7;
   --bg-color: #19211e;
